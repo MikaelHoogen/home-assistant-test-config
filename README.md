@@ -1,1 +1,1 @@
-# Mikael van den Hoogen Configuration for Testsystem
+# Mikael van den Hoogen Home Assistant Testsystem Configuration
